@@ -1,0 +1,18 @@
+export const LOGIN = "LOGIN";
+export const LOGIN_FAILED = "LOGIN_FAILED";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const INVALID_CREDENTIAL = "INVALID_CREDENTIAL";
+export const LOGOUT = "LOGOUT";
+export const LOGOUT_SUCCESS= "LOGOUT_SUCCESS";
+export const LOGOUT_FAILED= "LOGOUT_FAILED";
+
+export const REGISTER = "REGISTER";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAILED = "REGISTER_FAILED";
+
+export const TOKEN_EXPIRE = "TOKEN_EXPIRE";
+export const RESET_REQUEST = "RESET_REQUEST";
+export const RESET_SUCCESS = "RESET_SUCCESS";
+export const LOGIN_INPUT_CHANGE= "LOGIN_INPUT_CHANGE";
+
+

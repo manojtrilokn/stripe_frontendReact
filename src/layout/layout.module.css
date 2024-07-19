@@ -1,0 +1,17 @@
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 1px 50px;
+    display: flex;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(44, 62, 222);
+}
+
+.outlet {
+    padding: 25px 20%;
+}
